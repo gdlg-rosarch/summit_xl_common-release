@@ -2,6 +2,11 @@
 Changelog for package summit_xl_localization
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.4 (2016-06-30)
+------------------
+* added dependency
+* Contributors: carlos3dx
+
 1.0.3 (2016-06-29)
 ------------------
 
