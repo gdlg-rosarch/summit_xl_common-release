@@ -1,0 +1,12 @@
+Source: ros-indigo-summit-xl-pad
+Section: misc
+Priority: extra
+Maintainer: Carlos Villar <cvillar@robotnik.es>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-diagnostic-updater, ros-indigo-geometry-msgs, ros-indigo-message-generation, ros-indigo-robotnik-msgs, ros-indigo-roscpp, ros-indigo-sensor-msgs
+Homepage: http://ros.org/wiki/summit_xl_pad
+Standards-Version: 3.9.2
+
+Package: ros-indigo-summit-xl-pad
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-diagnostic-updater, ros-indigo-geometry-msgs, ros-indigo-message-runtime, ros-indigo-robotnik-msgs, ros-indigo-roscpp, ros-indigo-sensor-msgs, ros-indigo-twist-mux
+Description: The summit_xl_pad package allows to control the summit_xl product range (summit_xl, summit_xl_omni, x_wam) teleoperation
