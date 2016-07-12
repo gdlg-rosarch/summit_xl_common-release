@@ -1,3 +1,31 @@
+## summit_xl_common (kinetic) - 1.0.8-0
+
+The packages in the `summit_xl_common` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic summit_xl_common --edit` on `Tue, 12 Jul 2016 10:00:08 -0000`
+
+These packages were released:
+- `summit_xl_common`
+- `summit_xl_description`
+- `summit_xl_localization`
+- `summit_xl_navigation`
+- `summit_xl_pad`
+
+Version of package(s) in repository `summit_xl_common`:
+
+- upstream repository: https://github.com/RobotnikAutomation/summit_xl_common.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.8-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## summit_xl_common (indigo) - 1.0.5-0
 
 The packages in the `summit_xl_common` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo summit_xl_common` on `Tue, 05 Jul 2016 08:20:39 -0000`
